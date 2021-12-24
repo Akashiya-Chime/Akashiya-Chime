@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashiya-chime&show_icons=true&theme=dracula)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Now in the sea of Europa
 
 - Blog here: [akashiya-chime-github-io](https://akashiya-chime-github-io.vercel.app/)
 
 - Bilibili here: [Akashiya Chime](https://space.bilibili.com/22930167)
 
-- Need here:
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashiya-chime&show_icons=true&theme=dracula)
