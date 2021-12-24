@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Akashiya-Chime/Akashiya-Chime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashiya-chime&show_icons=true&theme=dracula)
+### Now in the sea of Europa
+
+- Blog here: [akashiya-chime-github-io](https://akashiya-chime-github-io.vercel.app/)
+
+- Bilibili here: [Akashiya Chime](https://space.bilibili.com/22930167)
+
+- Need here:
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashiya-chime&show_icons=true&theme=dracula)
