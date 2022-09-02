@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Now in the sea of Europa
 
-- Blog here: [akashiya-chime-github-io](https://akashiya-chime-github-io.vercel.app/)
+- Blog here: [akashiya-chime-github-io](https://akashiya-chime.github.io/)
 
 - Bilibili here: [Akashiya Chime](https://space.bilibili.com/22930167)
 
